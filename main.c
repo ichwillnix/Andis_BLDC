@@ -25,4 +25,5 @@ void SerialHandler(void)
 {
 	Serial.println("Jetzt is was los");
 	Serial.print("Hallo Welt");
+	Serial.print("Hallo Welt");
 }
