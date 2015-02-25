@@ -19,3 +19,8 @@ void main(void)
 	while(1){
 	};
 }
+
+void SerialHandler(void)
+{
+	Serial.println("Jetzt is was los");
+}
