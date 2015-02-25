@@ -1,0 +1,2 @@
+
+#define MeineVariable 13

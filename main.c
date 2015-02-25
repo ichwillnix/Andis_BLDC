@@ -1,3 +1,5 @@
+#include "config.h"
+
 void main(void)
 {
 	uint8_t Hallo;
