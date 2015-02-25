@@ -1,5 +1,6 @@
 #include "config.h"
 
+//Das ist das Masterfile
 void masterfunction(void)
 {
 	Serial.println("Hallo Welt");
